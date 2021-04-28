@@ -49,6 +49,7 @@ export default {
           },
           paragraph: {
             class: Paragraph,
+            tunes: ["anyTuneName"],
             inlineToolbar: true,
             config: {
               placeholder: "نوشتن را شروع کنید...",
